@@ -1,13 +1,13 @@
-!!!COM:	Pipelare, Matthaeus
-!!!CDT:	~1450///-~1550//
-!!!OPR:	Missa Fors seulement
-!!!ONM:	2
-!!!OTL:	Gloria
-!!!AGN:	Mass; Gloria
-!!!SCT:	Pip1004b
-!!!SCA:	Pip1004b
-!!!voices-OPR:	5
-!!!voices:	5
+!!!COM: Pipelare, Matthaeus
+!!!CDT: ~1450///-~1550//
+!!!OPR: Missa Fors seulement
+!!!ONM: 2
+!!!OTL: Gloria
+!!!AGN: Mass; Gloria
+!!!SCT: Pip1004b
+!!!SCA: Pip1004b
+!!!voices-OPR: 5
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivoxa	*
@@ -735,9 +735,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/24/2013
-!!!END:	2013/08/24/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/29/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/29/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/24/2013
+!!!END: 2013/08/24/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/29/
+!!!ONB: Translated from MusicXML and edited on 2013/08/29/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,110Q2c180
